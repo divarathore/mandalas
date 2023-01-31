@@ -1,0 +1,8 @@
+div {
+
+	background-image: url("./border.png");
+	width: 768px;
+	height: 768px;
+	position: absolute;
+	pointer-events: none;
+}
